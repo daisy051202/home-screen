@@ -1,0 +1,38 @@
+export const commissions = [
+  {
+    id: '1',
+    name: '"Mediterranean Agate \nA" Fine Art Canvas Pr...',
+    commission: 'Hoa Hồng 65.000₫',
+    price: '288.000₫',
+    expiresDate: 'Đến 23/12/2021',
+    sold: 'Đã bán 45',
+    image: require('../assets/tips/item-photo.png'),
+  },
+  {
+    id: '2',
+    name: 'Bitis limited version',
+    commission: 'Hoa Hồng 11.500₫',
+    price: '288.000₫',
+    expiresDate: 'Đến 23/12/2021',
+    sold: 'Đã bán 45',
+    image: require('../assets/tips/item-photo-1.png'),
+  },
+  {
+    id: '3',
+    name: '"Mediterranean Agate \nA" Fine Art Canvas Pr...',
+    commission: 'Hoa Hồng 65.000₫',
+    price: '288.000₫',
+    expiresDate: 'Đến 23/12/2021',
+    sold: 'Đã bán 45',
+    image: require('../assets/tips/item-photo.png'),
+  },
+  {
+    id: '4',
+    name: 'Bitis limited version',
+    commission: 'Hoa Hồng 11.500₫',
+    price: '288.000₫',
+    expiresDate: 'Đến 23/12/2021',
+    sold: 'Đã bán 45',
+    image: require('../assets/tips/item-photo-1.png'),
+  },
+];
